@@ -1,17 +1,15 @@
 # Quick Health Checker
 
-A flutter app for monitoring your health.(⌐■_■)
+**Babble** is the Chat app  made using flutter for a simple waki-toki type chat purpose.🍻
 
 # snapshot
-![app image](https://github.com/ralphcoder/covid_health/blob/master/Mockup_02_marble_PSD%20(3)-min.jpg)!
+![app image](https://github.com/ralphcoder/covid_health/blob/master/Mockup_02_marble_PSD%20(3)-min.jpg)
 
 ## Discription
 
-**Babble** is the Chat app  made using flutter for a simple waki-toki type chat purpose.
-
- I have implemented firebase **Authentication** to authenticate the user on login and signup.
+ I have implemented firebase 🔥**Authentication** to authenticate the user on login and signup.
  
- and firebase **Firestore** to store the chat on the cloud and retrive when needed.
+ and firebase 🔥**Firestore** to make NoSQL document database that lets you easily store, sync, and query data.
 
  App is made simple,and with good UI.
 
