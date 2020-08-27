@@ -1,4 +1,4 @@
-# Quick Health Checker
+# Babble
 
 **Babble** is the Chat app  made using flutter for a simple waki-toki type chat purpose.🍻
 
