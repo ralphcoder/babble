@@ -3,7 +3,7 @@
 **Babble** is the Chat app  made using flutter for a simple waki-toki type chat purpose.🍻
 
 # snapshot
-![app image](https://github.com/ralphcoder/covid_health/blob/master/Mockup_02_marble_PSD%20(3)-min.jpg)
+![app image](yet to upload)
 
 ## Discription
 
