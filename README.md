@@ -11,7 +11,7 @@
  
  and firebase 🔥**Firestore** to make NoSQL document database that lets you easily store, sync, and query data.
  
- All the people logining in can have a group chat.
+ All the people logining in can have a group chat.👨‍👦‍👦
 
  App is made simple,and with good UI.
 
