@@ -1,6 +1,6 @@
 # Babble
 
-**Babble** is the Chat app  made using flutter for a simple waki-toki type group chat purpose.🍻
+**Babble** is the Chat app made using flutter for a simple waki-toki type group chat purpose.🍻
 
 # snapshot
 ![]()
