@@ -2,7 +2,7 @@
 
 **Babble** is the Chat app made using flutter for a simple waki-toki type group chat purpose.🍻
 
-# snapshot
+# Snapshot
 ![](https://github.com/ralphcoder/babble/blob/master/flash%20chat.png)
 
 ## Discription
@@ -13,7 +13,7 @@
  
  All the people logining in can have a group chat.👨‍👦‍👦
 
- App is made simple,and with good UI.
+ App is made simple,and with good UI.🙂
 
 
 
