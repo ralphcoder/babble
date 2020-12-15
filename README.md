@@ -7,7 +7,7 @@ type group chat purpose.
 
 ## Discription
 
- I have implemented firebase 🔥 **Authentication** to authenticate the user on login or signup.
+ I have implemented Firebase 🔥 **Authentication** to authenticate the user on login or signup.
  
  Firebase 🔥 **Firestore** to make NoSQL document database that lets us easily store, sync, and query data of the cit chats. 🗣
  
