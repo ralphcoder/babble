@@ -13,7 +13,7 @@ type group chat purpose.
  
  All the people logining in can have a group chat. 👨‍👦‍👦
 
- App is made simple,and with good UI. 🙂
+ App is made simple, and with good UI. 🙂
 
 
 
