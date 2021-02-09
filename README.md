@@ -1,6 +1,6 @@
 # Babble
 
-**Babble** is a Chat app made using flutter and firebase for a simple waki-toki <img src="https://github.com/ralphcoder/babble/blob/master/source.gif" width="152ppx" height="100px">
+**Babble** is a Chat app made using flutter and firebase for a simple waki-toki <img src="https://github.com/ralphcoder/babble/blob/master/source.gif" width="152ppx" height="99px">
 type group chat purpose.
 # Snapshot
 ![](https://github.com/ralphcoder/babble/blob/master/flash%20chat.png)
