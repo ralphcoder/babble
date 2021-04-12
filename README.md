@@ -5,7 +5,7 @@ type group chat purpose.
 # Snapshot
 ![](https://github.com/ralphcoder/babble/blob/master/flash%20chat.png)
 
-## Discription
+## Discription -
 
  I have implemented Firebase 🔥 **Authentication** to authenticate the user on login or signup.
  
