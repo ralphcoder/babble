@@ -16,7 +16,7 @@ class _LoginScreenState extends State<LoginScreen> {
   final _auth = FirebaseAuth.instance;
   String email;
   String password;
-  bool showSpinner = false;
+  bool showSpinner = false;//for showing the spinner while auth
   void showToast() {
     Fluttertoast.showToast(
         msg: 'Enter Correct Details',
