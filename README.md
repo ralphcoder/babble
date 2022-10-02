@@ -6,7 +6,7 @@
 
 **Babble** is a Simple Chat application made with `Flutter` and used `Firebase` to store data.
  <p>
-    <a href="https://github.com/ralphcoder/babble">View Screenshots</a>
+    <a href="https://github.com/ralphcoder/babble">View Demo</a>
     ·
     <a href="https://github.com/ralphcoder/babble/issues">Report Bug</a>
     ·
